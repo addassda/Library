@@ -30,7 +30,7 @@
     "rxjs": "6.5.3",
     "rxjs-compat": "^6.5.3",
     "systemjs": "6.1.4",
-    "zone.js": "^0.10.2"
+    "zone.js": "^0.13.0"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^0.803.25",
